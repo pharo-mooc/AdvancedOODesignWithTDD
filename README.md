@@ -3,14 +3,13 @@
 This is a template for an advanced lecture on TDD/Object-oriented design, and reverse engineering
 
 A little testimony: 
-"J'ai personnellement trouvé le cours très intéressant et rafraîchissant. C'est sûrement le cours où j'ai appris le plus de choses depuis le début de mes études supérieures.
-J'ai surtout trouvé que c'était le cours avec le plus de valeur unique (des "cours" tutos pour faire des requêtes SQL ou apprendre du JS c'est bien, mais je pourrais en trouver une vingtaine en 2 clics...)"
+_"J'ai personnellement trouvé le cours très intéressant et rafraîchissant. C'est sûrement le cours où j'ai appris le plus de choses depuis le début de mes études supérieures.
+J'ai surtout trouvé que c'était le cours avec le plus de valeur unique (des "cours" tutos pour faire des requêtes SQL ou apprendre du JS c'est bien, mais je pourrais en trouver une vingtaine en 2 clics...)"_
 
 Translated by deepl.com as 
 
-"I personally found the course very interesting and refreshing. It's probably the course I've learned the most from since I started graduate school.
-Above all, I found it to be the course with the most unique value (tutorial "courses" for making SQL queries or learning JS are fine, but I could find twenty of them in 2 clicks...).
-"
+_"I personally found the course very interesting and refreshing. It's probably the course I've learned the most from since I started graduate school.
+Above all, I found it to be the course with the most unique value (tutorial "courses" for making SQL queries or learning JS are fine, but I could find twenty of them in 2 clicks...)."_
 ___
 
 This is the repository of the XXX  lectures done by S. Ducasse and G. Polito

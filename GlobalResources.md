@@ -1,5 +1,4 @@
-
-# Resources to learn from
+# Some Resources to learn from
 
 - Slides and Videos [https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/]
 
@@ -10,14 +9,14 @@ Other source
 ## Git resources
 
 ### Slides
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/Git-PADR-1.2-GitAndDistributedVCS.pdf
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/Git-PADR-1.3-PracticalGit.pdf
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/Git-PADR-2-AdvancedGit.pdf
+- [Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf]()
+- [Resources/Git-PADR-1.3-PracticalGit.pdf]()
+- [Resources/Git-PADR-2-AdvancedGit.pdf]()
   
 ### Tutorials
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2023-Miage/Support-1-BasicGit.pdf
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2022-Miage-Slides/Support-2-AdvancedGit.pdf
-- https://rmod-files.lille.inria.fr/DesignCoffeeClub/2022-Miage-Slides/Support-2-PracticalGit.pdf
+- [Resources/Support-1-BasicGit.pdf]()
+- [Resources/Support-2-AdvancedGit.pdf]()
+- [Resources/Support-2-PracticalGit.pdf]()
   
 ## Links
 - [http://mooc.pharo.org](a super cool mooc)
@@ -27,12 +26,12 @@ Other source
 - [https://scg.unibe.ch/download/oorp/OORP.pdf](Object-Oriented Reengineering Patterns)
 
 ## Optional
-- Web https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook
+- Web [https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook]()
 
 
 ## Pharo automatic configuration
 
-You can place in a file with whatever.st, in the Preferences folder of your OS (check self fullName in the pane of Startup>Version Preferences)
+You can place a file with whatever.st, in the Preferences folder of your OS (check `self fullName` in the pane of Startup>Version Preferences)
 
 ```
 StartupPreferencesLoader default executeAtomicItems: {
@@ -50,7 +49,7 @@ StartupPreferencesLoader default executeAtomicItems: {
 			IceCredentialStore current
 					storeCredential: (IcePlaintextCredentials new
 					username: 'GHUSER';
-					password: 'PassWord';
+					password: 'password';
 					host: 'github.com';
 					yourself).		
 
