@@ -1,3 +1,5 @@
+## Watch Out Template
+
 This is a template for an advanced lecture on TDD/Object-oriented design, and reverse engineering
 
 A little testimony: 
@@ -9,7 +11,7 @@ Translated by deepl.com as
 "I personally found the course very interesting and refreshing. It's probably the course I've learned the most from since I started graduate school.
 Above all, I found it to be the course with the most unique value (tutorial "courses" for making SQL queries or learning JS are fine, but I could find twenty of them in 2 clicks...).
 "
-_
+___
 
 This is the repository of the XXX  lectures done by S. Ducasse and G. Polito
 
