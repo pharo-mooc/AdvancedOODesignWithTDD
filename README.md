@@ -79,7 +79,7 @@ Make sure you have correctly configured you authentication setup
 - upload your public keys to GitHub
     - If you want to use HTTPS authentication (or not do the SSH setup)
     - change Icebergs setting, "Metacello Integration" with the value HTTPS
-	 ![imagen](Images/MetacelloIntegrationSettings)
+	 ![imagen](Images/MetacelloIntegrationSettings.png)
     ![imagen](https://user-images.githubusercontent.com/708322/197169064-c6bf0bd2-762c-4bbe-b48c-daedb2d3aeef.png)
 	- create an access token to be able to push (and make sure of giving it permissions by ticking the check boxes)
 
