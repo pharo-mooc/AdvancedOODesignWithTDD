@@ -1,7 +1,15 @@
 This is a template for an advanced lecture on TDD/Object-oriented design, and reverse engineering
 
+A little testimony: 
+"J'ai personnellement trouvé le cours très intéressant et rafraîchissant. C'est sûrement le cours où j'ai appris le plus de choses depuis le début de mes études supérieures.
+J'ai surtout trouvé que c'était le cours avec le plus de valeur unique (des "cours" tutos pour faire des requêtes SQL ou apprendre du JS c'est bien, mais je pourrais en trouver une vingtaine en 2 clics...)"
 
+Translated by deepl.com as 
 
+"I personally found the course very interesting and refreshing. It's probably the course I've learned the most from since I started graduate school.
+Above all, I found it to be the course with the most unique value (tutorial "courses" for making SQL queries or learning JS are fine, but I could find twenty of them in 2 clicks...).
+"
+_
 
 This is the repository of the XXX  lectures done by S. Ducasse and G. Polito
 
@@ -80,6 +88,5 @@ Make sure you have correctly configured you authentication setup
     - If you want to use HTTPS authentication (or not do the SSH setup)
     - change Icebergs setting, "Metacello Integration" with the value HTTPS
 	 ![imagen](Images/MetacelloIntegrationSettings.png)
-    ![imagen](https://user-images.githubusercontent.com/708322/197169064-c6bf0bd2-762c-4bbe-b48c-daedb2d3aeef.png)
 	- create an access token to be able to push (and make sure of giving it permissions by ticking the check boxes)
 
