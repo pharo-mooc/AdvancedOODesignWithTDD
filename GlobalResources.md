@@ -20,17 +20,17 @@ Other sources
   
 ## Links
 - [http://mooc.pharo.org](http://mooc.pharo.org)
-- Discord [https://discord.gg/QewZMZa](https://discord.gg/QewZMZa)
-- Pharo by Example, Pharo with Style [http://books.pharo.org](http://books.pharo.org)
-- [https://scg.unibe.ch/download/oorp/OORP.pdf](Object-Oriented Reengineering Patterns)
+- Discord: [https://discord.gg/QewZMZa](https://discord.gg/QewZMZa)
+- Pharo by Example, Pharo with Style: [http://books.pharo.org](http://books.pharo.org)
+- [Object-Oriented Reengineering Patterns](https://scg.unibe.ch/download/oorp/OORP.pdf)
 
 ## Optional
 - Web [SeasideBook](https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook)
-- Free Books [FreeBooks](http://stephane.ducasse.free.fr/FreeBooks.html)
+- [ A collection of free Books ](http://stephane.ducasse.free.fr/FreeBooks.html)
 
 ## Pharo automatic configuration
 
-You can place a file with whatever.st, in the Preferences folder of your OS (check `self fullName` in the pane of Startup>Version Preferences)
+You can place a file with `whatever.st`, in the Preferences folder of your OS (check `self fullName` in the pane of Startup>Version Preferences)
 
 ```
 StartupPreferencesLoader default executeAtomicItems: {
