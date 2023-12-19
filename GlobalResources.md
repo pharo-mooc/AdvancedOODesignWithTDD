@@ -3,14 +3,14 @@
 - Slides and Videos [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
 
 Other sources
-- [http://mooc.pharo.org/]()
-- [http://books.pharo.org/]()
+- [http://mooc.pharo.org/](http://mooc.pharo.org/)
+- [http://books.pharo.org/](http://books.pharo.org/]())
 
 ## Git resources
 
 ### Slides
-- [Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf]()
-- [https://github.com/pharo-mooc/AdvancedOODesignWithTDD/tree/main/Resources/Git-PADR-1.3-PracticalGit.pdf]()
+- [Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf](Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf)
+- [https://github.com/pharo-mooc/AdvancedOODesignWithTDD/tree/main/Resources/Git-PADR-1.3-PracticalGit.pdf](https://github.com/pharo-mooc/AdvancedOODesignWithTDD/tree/main/Resources/Git-PADR-1.3-PracticalGit.pdf)
 - [Resources/Git-PADR-2-AdvancedGit.pdf]()
   
 ### Tutorials
