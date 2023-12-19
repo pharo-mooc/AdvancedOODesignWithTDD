@@ -5,6 +5,7 @@ From week 5 to week 12 you will work (improve, extend) on one of these projects
 ## Bloc 
 Bloc is a new graphical library
 - https://www.slideshare.net/esug/bloc-for-pharo-current-state-and-future-perspective
+- https://www.slideshare.net/esug/news-on-bloc-for-pharo
 - http://www.github.com/pharo-graphics/Bloc
 
 ## Possible Games
@@ -25,9 +26,6 @@ Bloc is a new graphical library
 - Bomberman
 - Puissance4 (for this one we will also define a little AI that will be able to compete against humans :)
 
-You can find some ideas of games at: 
-https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/
-
 # Resources
 
 ## The Myg framework
@@ -37,18 +35,12 @@ A Miner, Sokoban and Takuzu have been built on top of it.
 It provides ways to build levels and other facilities.
 
 ```
+Author fullName: 'No'.
 Metacello new
-    baseline: 'Bloc';
-    repository: 'github://pharo-graphics/Bloc:05e5b0e385811719537f8cd89966b150a07be985/src';
-    onConflictUseIncoming;
-    load;
-    lock.
-
-Metacello new
-    repository: 'github://Ducasse/Myg:v1.0.0';
-    baseline: 'Myg';
-    onConflictUseIncoming;
-    load.
+	repository: 'github://Ducasse/Myg:v1.0.1/src';
+	baseline: 'Myg';
+	onConflictUseLoaded;
+	load.
 ```
 
 You will just need to execute `Sokoban open` to open the Sokoban, or do the same with `MineSweeper` or `Takuzu`.
@@ -68,13 +60,13 @@ Metacello new
     load
 ```
 
-There is one tutorial showing how to build a simple  memory game and one 2048 game (with a prototype of skins for Bloc).
+There is one tutorial showing how to build a simple memory game and one 2048 game (with a prototype of skins for Bloc).
 
 There are also some other games:
-	- a bomberman (clement bera + pdf in programmez)
-	- a breakout 
-	- an isometric game check discord channel 
-	- MetaBorg defines a tetris, pacman, sokoban
+- a bomberman (clement bera + pdf in programmez)
+- a breakout 
+- an isometric game check discord channel 
+- MetaBorg defines a tetris, pacman, sokoban
 
 # Project Guidelines (Mise en forme du rendu)
 
@@ -90,7 +82,7 @@ There are also some other games:
  
 ## Prepare your repository instructions
 
-All the instructions of this sections are **Mandatory**.
+All the instructions of this section are **Mandatory**.
 
 Add in your repository a `Readme.md` file with the following information:
 - Installation instructions: what should we download to run your project? in what order? Please test these installation instructions and make sure everything works

@@ -25,7 +25,7 @@ Other sources
 - [Object-Oriented Reengineering Patterns](https://scg.unibe.ch/download/oorp/OORP.pdf)
 
 ## Optional
-- Web [SeasideBook](https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook)
+- Web [ A book on Seaside ](https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook)
 - [ A collection of free Books ](http://stephane.ducasse.free.fr/FreeBooks.html)
 
 ## Pharo automatic configuration

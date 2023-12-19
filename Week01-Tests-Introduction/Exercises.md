@@ -13,12 +13,12 @@ But, you will need to learn how to write simple programs including:
 This will also get you started with *reading* code, which will be a recurrent topic in this lecture.
 We will need to read and understand code that we did not write.
 And we need to do that efficiently.
-For that, we first need to take care of the silly obstacules like understanding the syntax.
+For that, we first need to take care of the silly obstacles like understanding the syntax.
 Later we will know how to abstract a bit more and care less about details.
 
 ## Step 1: Install Pharo
 Installing Pharo is easier using the Pharo launcher.
-The Pharo launcher is an application that allows you to download different versions of Pharo and managing the installation details for your platform.
+The Pharo launcher is an application that allows you to download different versions of Pharo and manage the installation details for your platform.
 
 Go to the download page https://pharo.org/download and download the Pharo launcher.
 Once downloaded, you can open it and see an application that looks like this:
@@ -51,14 +51,14 @@ For more, the ProfStef tutorial will guide you through the syntax of the languag
 
 ## Step 3: Writing classes, methods and tests
 
-The next step to get acquainted to Pharo is to write some *real* code (what's real anyways?).
-For that, follow the PDF tutorial in http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Counter.pdf.
+The next step to get acquainted with Pharo is to write some *real* code (what's real anyway?).
+For that, follow the PDF tutorial at http://rmod-pharo-mooc.lille.inria.fr/MOOC/PharoMOOC/Week1/Exo-Counter.pdf.
 
 This tutorial will guide you on writing a `Counter` class that has `increment` and `decrement` methods using a TDD approach.
 It will also show you how to use the code browser and the debugger a bit.
 
 You may want to check the videos here: 
-- *Creating packages, classes and methods:* https://www.youtube.com/watch?v=8Do1TjMHLAI&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=11
+- *Creating packages, classes, and methods:* https://www.youtube.com/watch?v=8Do1TjMHLAI&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=11
 - *Creating tests:* https://www.youtube.com/watch?v=FZBDNRJWpLE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=12
 - *Alternative method creation:* https://www.youtube.com/watch?v=iAPo3j_DaXE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=13
 - *Committing the code in Git:* https://www.youtube.com/watch?v=NDJv7TRhwRE&list=PL2okA_2qDJ-kCHVcNXdO5wsUZJCY31zwf&index=14

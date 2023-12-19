@@ -3,8 +3,8 @@
 ## Practice
 
 To practice the OOP concepts we reviewed today, here are some exercises you can work on:
-- Think about how to implement the boolean methods `|`, `or:`, `ifTrue:ifFalse:`. Write them down. Try to make your pseudo-code be syntactically valid please. **Tip:** remember that to defer execution of code for the lazy version you can use block closures (i.e., `[ ... ]`), which are lambda expressions. To evaluate a lambda expression you can use the message `value` and its variants with arguments: `value:`, `value:value:` and so on...
-- Do a pass on the lookup exercises from the slides. Do you get the correct result? Do you understand why? Try arriving until the cases with `super` sends.
+- Think about how to implement the boolean methods `|`, `or:`, `ifTrue:ifFalse:`. Write them down. Try to make your pseudo-code be syntactically valid please. **Tip:** Remember that to defer execution of code for the lazy version you can use block closures (i.e., `[ ... ]`), which are lambda expressions. To evaluate a lambda expression you can use the message `value` and its variants with arguments: `value:`, `value:value:` and so on...
+- Do a pass on the lookup exercises from the slides. Do you get the correct result? Do you understand why? Try arriving until the cases with `super` send.
 - Think about what does `self == super` return. Remember that `==` is the identity comparison, returning true if the compared objects are *the same* object
 
 ## Preparing Presentation
@@ -34,7 +34,7 @@ Tips:
 - And check the options in the browser/playground (senders, implementors) what do they do and why are they useful?
 
 #### From a user perspective
-- Is there good starting documentation? Look for installation instructions, starting points, examples.
+- Is there good starting documentation? Look for installation instructions, starting points, and examples.
 - How do we use the project/library?
 - What does it do? Why would you use it?
 - What are the key classes to look at?
@@ -53,5 +53,5 @@ Tips:
 Either
 - improving existing tests 
 - proposing new (missing) tests
-- if you find problems please open issues in the github repository of the project
+- if you find problems please open issues in the GitHub repository of the project
 - you can also propose pull requests to address problems and improve the project
