@@ -10,25 +10,23 @@ Other sources
 
 ### Slides
 - [Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf](Resources/Git-PADR-1.2-GitAndDistributedVCS.pdf)
-- [https://github.com/pharo-mooc/AdvancedOODesignWithTDD/tree/main/Resources/Git-PADR-1.3-PracticalGit.pdf](https://github.com/pharo-mooc/AdvancedOODesignWithTDD/tree/main/Resources/Git-PADR-1.3-PracticalGit.pdf)
+- [Resources/Git-PADR-1.3-PracticalGit.pdf](Resources/Git-PADR-1.3-PracticalGit.pdf)
 - [Resources/Git-PADR-2-AdvancedGit.pdf]()
   
 ### Tutorials
 - [Resources/Support-1-BasicGit.pdf](Resources/Support-1-BasicGit.pdf)
-- [Resources/Support-2-AdvancedGit.pdf]()
-- [Resources/Support-2-PracticalGit.pdf]()
+- [Resources/Support-2-AdvancedGit.pdf](Resources/Support-2-AdvancedGit.pdf)
+- [Resources/Support-2-PracticalGit.pdf](Resources/Support-2-PracticalGit.pdf)
   
 ## Links
-- [http://mooc.pharo.org](a super cool mooc)
-- [https://discord.gg/QewZMZa](Pharo discord channel)
-- [http://books.pharo.org](Pharo by Example)
-- [http://books.pharo.org](Pharo with Style)
+- [http://mooc.pharo.org](http://mooc.pharo.org)
+- Discord [https://discord.gg/QewZMZa](https://discord.gg/QewZMZa)
+- Pharo by Example, Pharo with Style [http://books.pharo.org](http://books.pharo.org)
 - [https://scg.unibe.ch/download/oorp/OORP.pdf](Object-Oriented Reengineering Patterns)
 
 ## Optional
-- Web [https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook]()
-- Free Books [https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook]()
-
+- Web [SeasideBook](https://rmod-files.lille.inria.fr/?dir=FreeBooks/SeasideBook)
+- Free Books [FreeBooks](http://stephane.ducasse.free.fr/FreeBooks.html)
 
 ## Pharo automatic configuration
 
