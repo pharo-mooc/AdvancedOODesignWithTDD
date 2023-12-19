@@ -1,4 +1,4 @@
-# Some Resources to learn from
+# Some resources to learn from
 
 - Slides and Videos [https://advanced-design-mooc.pharo.org](https://advanced-design-mooc.pharo.org)
 
@@ -63,5 +63,5 @@ StartupPreferencesLoader default executeAtomicItems: {
 }.
 
 ```
-Note that we remove the logo so that we can see if the startup action got executed
+Note that the script removes the logo so that we can see if the startup action get executed.
 
