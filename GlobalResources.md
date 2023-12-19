@@ -4,7 +4,7 @@
 
 Other sources
 - [http://mooc.pharo.org/](http://mooc.pharo.org/)
-- [http://books.pharo.org/](http://books.pharo.org/]())
+- [http://books.pharo.org/](http://books.pharo.org/)
 
 ## Git resources
 
